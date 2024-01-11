@@ -14,6 +14,10 @@ Found my first issue, traces touching. I corrected the kicad files and reuploade
 
 ![Bad Spot's](https://github.com/carl1961/FTDI-ESP8266-Definitive-Wiring/assets/3056821/ca96ba8f-6db1-4720-bf88-badccf8502c7)
 
+Manually ran Mill and fixed Touching Traces, Saved the board.
+
+![Fixed Touching trace Spots](https://github.com/carl1961/FTDI-ESP8266-Definitive-Wiring/assets/3056821/2257ffa7-8b29-40b9-bf46-3eff233aaa2c)
+
 
 will update as I progress
 
