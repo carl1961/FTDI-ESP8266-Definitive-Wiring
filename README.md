@@ -8,7 +8,10 @@ Eagle Cad and Kicad files added.
 
 ![image](https://github.com/carl1961/FTDI-ESP8266-Definitive-Wiring/assets/3056821/a9c15de3-2546-431e-9c61-6c08fb02761f)
 
-The Kicad files, I was also able to beef up all the pin traces to allow to be big as possable  to help with doing engraving the boards and easier soldering. 
+The Kicad files, I was also able to beef up all the pin traces to allow to be big as possable  to help with doing engraving the boards and easier soldering.
+
+
+
 will update as I progress
 
 
