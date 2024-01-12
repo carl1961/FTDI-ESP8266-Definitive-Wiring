@@ -18,7 +18,18 @@ Manually ran Mill and fixed Touching Traces, Saved the board.
 
 ![Fixed Touching trace Spots](https://github.com/carl1961/FTDI-ESP8266-Definitive-Wiring/assets/3056821/2257ffa7-8b29-40b9-bf46-3eff233aaa2c)
 
-Oh well all had to be redone. when I went to plug in programer the pins were reversed. Corrected Eagle and Kicad files.
+Oh well all had to be redone. when I went to plug in programer the pins were reversed. Corrected Eagle and Kicad files. Complete rearange to get most traces on bottom for single side work. red traces will we jumper wires.
+
+Eagle Cad
+![Eagle](https://github.com/carl1961/FTDI-ESP8266-Definitive-Wiring/assets/3056821/80cd26a0-503b-4265-a907-f7f05a082f8a)
+
+
+KiCad  It is where I am able to enlarge via's and foot print holes.
+
+![KiCad](https://github.com/carl1961/FTDI-ESP8266-Definitive-Wiring/assets/3056821/b3a00172-5181-4fd3-b599-f01f56a7af4c)
+
+
+
 
 will update as I progress
 
