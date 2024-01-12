@@ -33,6 +33,16 @@ bCNC at work again
 
 ![bCNC](https://github.com/carl1961/FTDI-ESP8266-Definitive-Wiring/assets/3056821/1ff49d7a-03b3-4275-979a-9ee3a0833613)
 
+Won! blink test in files folder, blink video shows 3 diffrent blink speeds loading
+
+![Blink](https://github.com/carl1961/FTDI-ESP8266-Definitive-Wiring/assets/3056821/e80d7fdf-bd26-4a0d-8e42-a624293b5780)
+
+
+![WIN_20240112_02_55_37_Pro](https://github.com/carl1961/FTDI-ESP8266-Definitive-Wiring/assets/3056821/ac684684-9b9b-4d23-b243-da9f7c7e9e9b)
+
+
+
+
 
 will update as I progress
 
