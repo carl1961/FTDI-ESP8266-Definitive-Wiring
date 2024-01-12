@@ -29,6 +29,9 @@ KiCad  It is where I am able to enlarge via's and foot print holes.
 ![KiCad](https://github.com/carl1961/FTDI-ESP8266-Definitive-Wiring/assets/3056821/b3a00172-5181-4fd3-b599-f01f56a7af4c)
 
 
+bCNC at work again
+
+![bCNC](https://github.com/carl1961/FTDI-ESP8266-Definitive-Wiring/assets/3056821/1ff49d7a-03b3-4275-979a-9ee3a0833613)
 
 
 will update as I progress
