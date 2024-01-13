@@ -43,6 +43,12 @@ Won! blink test in files folder, blink video shows 3 diffrent blink speeds loadi
 
 ![WIN_20240112_03_03_56_Pro](https://github.com/carl1961/FTDI-ESP8266-Definitive-Wiring/assets/3056821/112fc775-cb25-4954-aedc-8f3932b16d23)
 
+Added Case and Cad Model to Files
+
+![FTDI-ESP-01-Definitive-Wiring-And-Programmer v1 v4](https://github.com/carl1961/FTDI-ESP8266-Definitive-Wiring/assets/3056821/8b1c9460-451e-4be2-876e-b4284a997e7a)
+
+
+![FTDI-ESP-01-Definitive-Wiring-And-Programmer v1 (v3~recovered)](https://github.com/carl1961/FTDI-ESP8266-Definitive-Wiring/assets/3056821/f98eaddc-40b5-459f-8ee6-cca116a8c20f)
 
 
 will update as I progress
